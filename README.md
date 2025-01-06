@@ -1,2 +1,2 @@
 # Dashboard Marketing
-This is a task for Statistic Data Analysis subject. The purpose of this dashboard is to provide general information about the marketing performance of X company, including distribution of customers and RFM analysis.
+This is a task for Statistic Data Analysis subject. The purpose of this dashboard is to provide general information about the marketing performance of X company, including distribution of customers and RFM analysis. We used Google Colab and Power BI to do this project. Our project can be accesed here https://www.canva.com/design/DAGVz19IUR8/D4PJMK4MGt0gZWNwEaX5Ug/view?utm_content=DAGVz19IUR8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h57fbf8c941
